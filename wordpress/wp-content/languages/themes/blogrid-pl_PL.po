@@ -1,0 +1,350 @@
+# Translation of Themes - Blogrid in Polish
+# This file is distributed under the same license as the Themes - Blogrid package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-28 16:14:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Blogrid\n"
+
+#. Description of the theme
+msgid "Blogrid is a clean and creative blog theme for writers and bloggers. The theme is responsive, it is fully compatible with mobile phones, desktop computers and tablets such as iPads. The WordPress theme has a multi purpose design which is minimal and simple. You willThe readability is optimized through great typography. You can use it as a newspaper or magazine where you post your news about your personal life, food, entertainment, gaming or anything else. Page builders work fine with the theme, and since it's full width by default you can create a landing page or one page easily to visualize your business, agency or consultant company. Since we have made it useful for companies too we have of course spend a lot of time to optimize the SEO (search engine optimization) and load time, so when your vistiors loads your site, they will have a great experience. There is also lots of space for ads such as AdSense and other ads programs, through a lot of widget opportunities."
+msgstr "Blogrid to czysty i kreatywny blog dla pisarzy i blogerów. Motyw jest responsywny, w pełni kompatybilny z telefonami komórkowymi, komputerami stacjonarnymi i tabletami, takimi jak iPady. Motyw WordPress ma uniwersalny wygląd, który jest minimalny i prosty. Będziesz Czytelność jest zoptymalizowana dzięki doskonałej typografii. Możesz go używać jako gazety lub czasopisma, w których publikujesz wiadomości o swoim życiu osobistym, jedzeniu, rozrywce, grach lub czymkolwiek innym. Kreatory stron działają dobrze z tym motywem, a ponieważ domyślnie jest to pełna szerokość, można łatwo utworzyć stronę docelową lub jedną stronę, aby przedstawić swoją firmę, agencję lub firmę konsultingową. Ponieważ sprawiliśmy, że jest przydatny dla firm, poświęcamy dużo czasu na optymalizację SEO (optymalizacja pod kątem wyszukiwarek) i czas wczytywania, więc podczas wczytywania Twojej witryny odwiedzający doświadczą wspaniałych doznań. Znajdziesz również dużo miejsca na reklamy, takie jak AdSense i inne programy reklamowe, dzięki wielu możliwościom widżetów."
+
+#. Theme Name of the theme
+msgid "Blogrid"
+msgstr "Blogrid"
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Podstawowy"
+
+#: functions.php:162
+msgid "Header Widget (2)"
+msgstr "Widżet (2) nagłówka"
+
+#: functions.php:152
+msgid "Header Widget (1)"
+msgstr "Widżet (1) nagłówka"
+
+#: functions.php:142
+msgid "Footer Widget (3)"
+msgstr "Widżet (3) stopki"
+
+#: functions.php:132
+msgid "Footer Widget (2)"
+msgstr "Widżet (2) stopki"
+
+#: functions.php:122
+msgid "Footer Widget (1)"
+msgstr "Widżet (1) stopki"
+
+#: functions.php:114 functions.php:124 functions.php:134 functions.php:144
+#: functions.php:154 functions.php:164 functions.php:174
+msgid "Add widgets here."
+msgstr "Dodaj tutaj widżet"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentarze zostały wyłączone."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s myśl na &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s myśli na &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s myśli na &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna myśl na &ldquo;%1$s&rdquo;"
+
+#: functions.php:379
+msgid "Theme Feature"
+msgstr "Funkcja motywu"
+
+#: functions.php:371
+msgid "View Theme Demo"
+msgstr "Zobacz motyw Demo"
+
+#: functions.php:368
+msgid "Read Full Description"
+msgstr "Przeczytaj całą dokumentację"
+
+#: functions.php:365
+msgid "Free Vs Premium"
+msgstr "Free Vs Premium"
+
+#: functions.php:357
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: functions.php:354 justinadlock-customizer-button/class-customize.php:76
+msgid "Premium Edition"
+msgstr "Wydanie Premium"
+
+#: functions.php:348
+msgid "View All Themes"
+msgstr "Zobacz wszystkie motywy"
+
+#: functions.php:345
+msgid "View our other themes"
+msgstr "Zobacz nasze pozostałe motywy"
+
+#: functions.php:336 functions.php:339
+msgid "Contact Support"
+msgstr "Kontakt ze wsparciem"
+
+#: functions.php:330
+msgid "Welcome to Blogrid!"
+msgstr "Witamy w Blogrid!"
+
+#: functions.php:321
+msgid "Blogrid Info"
+msgstr "Informacje o Blogrid"
+
+#: functions.php:172
+msgid "Header Widget (3)"
+msgstr "Widżet (3) nagłówka"
+
+#: functions.php:404 functions.php:409 functions.php:414 functions.php:419
+#: functions.php:425 functions.php:430 functions.php:435 functions.php:440
+#: functions.php:445 functions.php:450 functions.php:455 functions.php:460
+#: functions.php:465 functions.php:470 functions.php:475 functions.php:480
+msgid "No"
+msgstr "Nie"
+
+#: functions.php:392
+msgid "Custom Navigation Logo Or Text"
+msgstr "Nietypowa nawigacja logo lub tekst"
+
+#: functions.php:403
+msgid "Premium Support"
+msgstr "Wsparcie Premium"
+
+#: functions.php:397
+msgid "Hide Logo Text"
+msgstr "Ukryj tekst logo"
+
+#: functions.php:388 functions.php:389 functions.php:393 functions.php:394
+#: functions.php:398 functions.php:399 functions.php:405 functions.php:410
+#: functions.php:415 functions.php:420 functions.php:426 functions.php:431
+#: functions.php:436 functions.php:441 functions.php:446 functions.php:451
+#: functions.php:456 functions.php:461 functions.php:466 functions.php:471
+#: functions.php:476 functions.php:481
+msgid "Yes"
+msgstr "Tak"
+
+#: functions.php:387
+msgid "Header Background Color"
+msgstr "Kolor tła nagłówka"
+
+#: functions.php:381
+msgid "Premium Version"
+msgstr "Wersja Premium"
+
+#: functions.php:380
+msgid "Basic Version"
+msgstr "Wersja podstawowa"
+
+#: functions.php:418
+msgid "Pagespeed Plugin"
+msgstr "Wtyczka Pagespeed"
+
+#: functions.php:408
+msgid "Recent Posts Widget"
+msgstr "Widżet Najnowsze wpisy"
+
+#: functions.php:413
+msgid "Easy Google Fonts"
+msgstr "Łatwe Czcionki Google"
+
+#: functions.php:424
+msgid "Only Show Header Image On Front Page"
+msgstr "Pokaż obrazek nagłówka tylko na stronie głównej"
+
+#: functions.php:429
+msgid "Show Header Everywhere"
+msgstr "Pokaż wszędzie nagłówek"
+
+#: functions.php:434
+msgid "Custom Text On Header Image"
+msgstr "Nietypowy tekst na obrazku nagłówka"
+
+#: functions.php:355
+msgid "If you enjoy Blogrid and want to take your website to the next step, then check out our premium edition here."
+msgstr "Jeśli lubisz Blogrida i chcesz zabrać swoją stronę do kolejnego kroku, sprawdź tutaj naszą wersję premium."
+
+#: functions.php:346
+msgid "Do you like our concept but feel like the design doesn't fit your need? Then check out our website for more designs."
+msgstr "Czy podoba Ci się nasza koncepcja, ale czujesz, że wygląd nie pasuje do twoich potrzeb? Sprawdź naszą stronę internetową z większą ilością projektów."
+
+#: functions.php:337
+msgid "Getting started with a new theme can be difficult, if you have issues with Blogrid then throw us an email."
+msgstr "Rozpoczęcie pracy z nowym motywem może być trudne, jeśli masz problemy z Blogrid wyślij nam email."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda na to, że nic nie znaleziono w tej lokalizacji. Może spróbuj jednego z poniższych odnośników lub wyszukiwania?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Tej strony nie można znaleźć."
+
+#. translators: %s: post author.
+#: inc/template-tags.php:216
+msgctxt "post author"
+msgid "by %s"
+msgstr "przez %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:210
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Napisano dnia %s"
+
+#: inc/template-tags.php:75
+msgid "Related Post"
+msgstr "Powiązane wpisy"
+
+#: inc/customizer.php:18
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: inc/customizer.php:17
+msgid "Header Settings"
+msgstr "Ustawienia nagłówka"
+
+#: inc/custom-header.php:31
+msgctxt "Default header image"
+msgid "Default"
+msgstr "Domyślny"
+
+#: header.php:28
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:479
+msgid "Customize Background Color"
+msgstr "Spersonalizuj kolor tła"
+
+#: functions.php:474
+msgid "Header Background Image"
+msgstr "Obrazek tła nagłówka"
+
+#: functions.php:469
+msgid "Customize Footer Color"
+msgstr "Spersonalizuj kolor stopki"
+
+#: functions.php:464
+msgid "Customize Blog Feed Color"
+msgstr "Spersonalizuj kolor kanału blogu"
+
+#: functions.php:459
+msgid "Customize Post/Page Color"
+msgstr "Spersonalizuj kolor Wpisu/Strony"
+
+#: functions.php:454
+msgid "Customize Navigation Color"
+msgstr "Spersonalizuj kolor nawigacji"
+
+#: functions.php:449
+msgid "Customize Upper Widgets Colors"
+msgstr "Spersonalizuj kolor górnych widżetów"
+
+#: functions.php:444
+msgid "Replace Copyright Text"
+msgstr "Zamień tekst Prawa Autorskie"
+
+#: template-parts/content.php:62 template-parts/content-single.php:45
+msgid "Pages:"
+msgstr "Strony:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Wyniki szukania dla: %s"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:243
+msgid "Tagged %1$s"
+msgstr "Otagowano %1$s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:270
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edytuj <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy do opublikowania pierwszego wpisu? <a href=\"%1$s\">Zacznij tutaj</a>."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nic nie pasowało do wyszukiwanych haseł. Spróbuj ponownie, używając różnych słów kluczowych."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:50
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Kontynuuj czytanie<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: justinadlock-customizer-button/class-customize.php:77
+msgid "Get All Features"
+msgstr "Zdobądź wszystkie funkcje"
+
+#. translators: %s: post title
+#: inc/template-tags.php:253
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Pozostaw komentarz<span class=\"screen-reader-text\"> do %s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:240
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:236
+msgid "Posted in %1$s"
+msgstr "Zamieszczono w %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:233
+msgid ", "
+msgstr ", "
+
+#: functions.php:439
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Pokaż górne widżety tylko na stronie głównej"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wygląda na to, że nie możemy znaleźć tego, czego szukasz. Być może wyszukiwanie może pomóc."
+
+#. Theme URI of the theme
+msgid "https://superbthemes.com/blogrid/blogrid-info/"
+msgstr "https://superbthemes.com/blogrid/blogrid-info/"
+
+#. Author URI of the theme
+msgid "https://superbthemes.com/"
+msgstr "https://superbthemes.com/"
+
+#. Author of the theme
+msgid "themeeverest"
+msgstr "themeeverest"
